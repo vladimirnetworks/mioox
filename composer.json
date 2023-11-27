@@ -1,0 +1,15 @@
+{
+    "name": "iolakay/zedox",
+    "autoload": {
+        "psr-4": {
+            "Iolakay\\Zedox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben",
+            "email": "benixalize@gmail.com"
+        }
+    ],
+    "require": {}
+}
